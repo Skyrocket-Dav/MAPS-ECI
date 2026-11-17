@@ -1,0 +1,6 @@
+{
+  "name": "pixel-tokens",
+  "version": "0.2.2",
+  "description": "Scrolling trace under the prompt that spikes with real token traffic, with remaining context tokens and 5-hour/weekly usage, including when each window reopens",
+  "types": "./types/index.d.ts"
+}

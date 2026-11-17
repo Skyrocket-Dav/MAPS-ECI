@@ -1,0 +1,5 @@
+{
+  "name": "gnino-mods",
+  "owner": { "name": "gigakas" },
+  "plugins": [{ "name": "pixel-tokens", "source": "./" }]
+}

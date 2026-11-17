@@ -1,0 +1,15 @@
+27723a068e10105c897ead4a149ff86a4128f1def751a8db5101cba23277b042  ./README.md
+c273c3aeb50d9fae7db57e001968eb76fb90626883610665fd8a9ac89d2ac7a9  ./install.sh
+2d61e4dd47c2ce3db931c58e6f765b59abbd9d6470ef8cea51222bf00260250e  ./verify.sh
+54737f2510b0ff99f9d87896468510a989cdd7758ae1596171d2c02653aaf0d2  ./versions.json
+1687c4a1f6fb89de96d373f0a43439d7f6bc0826dd6facc09a92d84b12545d88  ./opencode/pacman-tokens/index.ts
+4daafdef1b873b0443140c96367a12c828de7e4be96f582ab96a137471d576d9  ./opencode/pacman-tokens/tui.tsx
+d39d435e9b3ca313eee4e48e703dac826aafd30b2711561e73a537c19e81be1f  ./opencode/pacman-tokens/ecg.mjs
+9942cfa4d2ed61757e5f501bdaf3b8d059e7ae2334fa960d08fd6767ce4edcdc  ./opencode/pacman-tokens/ecg.test.mjs
+dc5b5e60d121a01af711fdb2f5768b26a5c1a699cba6a79004d6c38998245528  ./claude/pixel-tokens/.claude-plugin/plugin.json
+155599fa61f58cf7cdc44f56ef3d08d8dab322a350243c43359b0630a223ac80  ./claude/pixel-tokens/.claude-plugin/marketplace.json
+c835c92d8e1159d20a40ca78ad654da7433942c3694ffeda0b376b0c4dfd52cf  ./claude/pixel-tokens/hooks/hooks.json
+c7cc3c834425a64ebf9c140f3b84217babdeaf3987390327fdeb1cf7fbbfd2cf  ./claude/pixel-tokens/hooks/register.ts
+118da3500849cb3403307ec022fe036ce44127edcff23d0f5132315944ecf09b  ./claude/pixel-tokens/types/index.d.ts
+3d1025485f34bcbd35c1b5822f296a2b74a76670f4c10d02f0c1d59f12292164  ./claude/pixel-tokens/tests/status.test.tsx
+4087cf0ba92fde503ed0e7c56f37bcb26ad0c085873f10219d0336c0f19b5a8f  ./claude/pixel-tokens/tsconfig.json
